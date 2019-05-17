@@ -1,0 +1,20 @@
+item {
+  name: "eyes_open"
+  id: 1
+  display_name: "eyes_open"
+}
+item {
+  name: "eyes_close"
+  id: 2
+  display_name: "eyes_close"
+}
+item {
+  name: "mouth_open"
+  id: 3
+  display_name: "mouth_open"
+}
+item {
+  name: "mouth_close"
+  id: 4
+  display_name: "mouth_close"
+}
